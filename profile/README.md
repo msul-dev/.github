@@ -18,10 +18,10 @@ A M-Sul Sistemas se dedica a oferecer soluções eficientes para empresas que bu
 ## 🔗 Contato
 Se quiser saber mais sobre nossos serviços e soluções, entre em contato:
 
-- 🌐 [Site Oficial](https://www.msulsistemas.com.br) *(Substitua pelo link correto)*
+- 🌐 [Visite nosso site oficial: https://www.msulsistemas.com.br](https://www.msulsistemas.com.br)
 - ✉️ contato@msulsistemas.com.br
-- 📞 (XX) XXXX-XXXX
+- 📞 +55 (51) 9 9158-9412
 
 ---
 
-Nosso compromisso é com a inovação e a eficiência. Contribua com melhorias ou sugestões para este repositório e ajude a aprimorar nossas soluções! 🚀
+Nosso compromisso é com a inovação e a eficiência. 🚀
